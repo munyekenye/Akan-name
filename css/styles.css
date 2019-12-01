@@ -1,21 +1,38 @@
-# header{
+*{
+    box-sizing: content-box;
+    padding:5px;
+    margin: 5px;
+}
+
+#header{
     background-position: center;
     text-align: center;
     color: bisque;
 }
-#body{
+h1{
+    font-style: oblique;
+}
+body{
     background-position-x: center;
     background-size: auto;
     background-repeat: no-repeat;
 }
-#Container{
+Container{
     background-color: burlywood;
     widows: 900px;
     margin-right:auto;
     margin-left:auto;
 }
-# content {
+Content {
     Padding: 15px;
+}
+button{
+    type = submit{
+        background-color: grey;
+        color white-space;
+        padding:5px;
+        font-size:18px; 
+    }
 }
 
 
