@@ -3,10 +3,16 @@
     text-align: center;
     color: bisque;
 }
-body{
+#body{
     background-position-x: center;
     background-size: auto;
     background-repeat: no-repeat;
+}
+#Container{
+    background-color: burlywood;
+    widows: 900px;
+    margin-right:auto
+    margin-left:auto
 }
 Background 
 
