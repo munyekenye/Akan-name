@@ -19,3 +19,12 @@ var maleNames=[
     "Kwame",
 
 ]
+ var femaleNames= [
+     "Akosua",
+     "Adwoa",
+     "Abenaa",
+     "Akua",
+     "Yaa",
+     "Afua",
+     "Ama",
+ ]
