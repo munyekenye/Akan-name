@@ -34,12 +34,19 @@ button {
         padding:5px;
         font-size:18px; 
     }
-    input{type = radio
+input{type = radio
         {font: size 15px;
         
     }
 
-    }
+footer{ 
+    text-align: center;
+    Color; black;
+    font:small-caption;
+    margin-top:15px
+}
+
+    
 }
 
 
