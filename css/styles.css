@@ -11,8 +11,12 @@
 #Container{
     background-color: burlywood;
     widows: 900px;
-    margin-right:auto
-    margin-left:auto
+    margin-right:auto;
+    margin-left:auto;
 }
-Background 
+# content {
+    Padding: 15px;
+}
+
+
 
