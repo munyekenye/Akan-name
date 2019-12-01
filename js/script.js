@@ -17,8 +17,7 @@ var maleNames=[
     "Yaw",
     "Kofi",
     "Kwame",
-
-]
+];
  var femaleNames= [
      "Akosua",
      "Adwoa",
@@ -27,7 +26,7 @@ var maleNames=[
      "Yaa",
      "Afua",
      "Ama",
- ]
+ ];
  // calling functions
  fucnction getName (){
      var year=parseInt(document.getElementById("Year").value);
@@ -43,10 +42,12 @@ else if (month<0|| month>12)
 alert ("Please enter month of birth");
 var day =new Date(Year + "/"+ month + "/"+ day);
 var birthDay=getDay();
+
 if(male.checked==true){
     alert ("Your date of birth") + daysOfWeek[birthDay]+ "Therefore your Akan Name is" + maleNames [birthDay])
 }
-if(female.checked==true){
+{
+else if(female.checked==true){
     alert ("Your date of birth") + daysOfWeek[birthDay]+ "Therefore your Akan Name is" + femaleNames [birthDay])
 }
 }
