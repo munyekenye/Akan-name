@@ -28,3 +28,11 @@ var maleNames=[
      "Afua",
      "Ama",
  ]
+ // calling functions
+ fucnction getName (){
+     var year=parseInt(document.getElementById("Year").value);
+     var Month=parseInt(document.getElementById("Month").value);
+     var Day =parseInt(document.getElementById("Day").value);
+     Var male= document.getElementById ("male");
+     Var female = document.getElementById ("female");
+    }
