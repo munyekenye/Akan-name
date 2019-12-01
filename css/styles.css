@@ -26,12 +26,19 @@ Container{
 Content {
     Padding: 15px;
 }
-button{
-    type = submit{
-        background-color: grey;
+button {
+    [type = submit]
+    {
+        background-color:grey;
         color white-space;
         padding:5px;
         font-size:18px; 
+    }
+    input{type = radio
+        {font: size 15px;
+        
+    }
+
     }
 }
 
