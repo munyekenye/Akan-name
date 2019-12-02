@@ -1,5 +1,5 @@
 # AKAN.
-[Check it out](https://github.com/wendymunyasi/Akan-IP2/)
+[Check it out](https://munyekenye.github.io/Akan-name/)
 
 ## Description.
 A web application that takes your birthday, calculates the ``day of the week`` you were born and then depending on your gender outputs your ``Akan Name``. 
@@ -8,13 +8,12 @@ A web application that takes your birthday, calculates the ``day of the week`` y
  > Lilian Munyekenye
 
  ## Setup.
- > ``
- 
+  
  ``extract the file``
  
  ``cd to the akan directory``
  
- > ``Open the index.html on your favorite browser``
+  ``Open the index.html on your favorite browser``
 
 ## Technologies used.
   * Html5
@@ -43,7 +42,7 @@ A web application that takes your birthday, calculates the ``day of the week`` y
 
 
 ## License
-> MIT License &copy 2019 Lilian 
+> MIT License &copy 2019 Lilian
 
 ## Collaborate
-To collaborate, reach me on [Email]lilan.munyekenye@aiu.ac.ke
+To collaborate, reach me on [Email] lilan.munyekenye@aiu.ac.ke
