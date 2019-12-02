@@ -7,14 +7,18 @@
     background-position: center;
     text-align: center;
     color: bisque;
+    background-color: burlywood;
 }
 h1 {
-    font-style: oblique;
+    font-style:Slab Serifs;
+    text-align: center;
+    color: blue;
 }
 body {
     background-position-x: center;
     background-size: auto;
     background-repeat: no-repeat;
+    background-color: cadetblue;
 }
 button {
       
