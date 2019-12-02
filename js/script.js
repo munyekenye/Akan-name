@@ -40,16 +40,13 @@ if(day<=0 || day>31)
 alert ("Please enter date of birth");
 else if (month<0|| month>12)
 alert ("Please enter month of birth");
-var day =new Date(Year + "/"+ month + "/"+ day);
+var day =new Date(year + "/"+ month + "/"+ day);
 var birthDay= day.getDay();
 
 if(male.checked==true){
-    alert ("Your date of birth") + daysOfWeek[birthDay]+ "Therefore your Akan Name is" + maleNames[birthdDay]
+    alert ("You were born on" + daysOfWeek[birthDay] + "Therefore your Akan Name is"  + maleNames[birthDay])
+} else if(female.checked==true){
+    alert ("You were born on" + daysOfWeek[birthDay]+ "Therefore your Akan Name is"  + femaleNames[birthDay])
 }
 
-else if(female.checked==true){
-    alert ("Your date of birth") + daysOfWeek[birthDay]+ "Therefore your Akan Name is" + femaleNames [birthDay]
-}
-
-}
-tgtg
+};
