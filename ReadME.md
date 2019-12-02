@@ -5,7 +5,7 @@
 A web application that takes your birthday, calculates the ``day of the week`` you were born and then depending on your gender outputs your ``Akan Name``. 
 
 ## Author.
- > Wendy Munyasi
+ > Lilian Munyekenye
 
  ## Setup.
  > ``
@@ -40,10 +40,10 @@ A web application that takes your birthday, calculates the ``day of the week`` y
 
 
 ## Known Bugs
-* The name generator is not working at all.
+
 
 ## License
-> MIT License &copy 2019 Victor 
+> MIT License &copy 2019 Lilian 
 
 ## Collaborate
 To collaborate, reach me on [Email]lilan.munyekenye@aiu.ac.ke
