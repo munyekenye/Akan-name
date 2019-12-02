@@ -20,29 +20,29 @@ A web application that takes your birthday, calculates the ``day of the week`` y
   * Css
   * Javascript
   * Bootstrap
-  * Markdown
+  
   
 ## BDD
 | Inputs |  Description |
 | :---         |          ---: |
-| Century   | The century that the user was born in, ``eg 20th century``|
-| Year     | The year of the century ``eg 98th year``   |
-| Month     | The month of the year ``eg 7th month``     |
-| Date     |  The day of the month ``eg 15th day`` |
+| Century   | The century that the user was born in, ``eg 21st century``|
+| Year     | The year of the century ``eg 99th year``   |
+| Month     | The month of the year ``eg 12th month``     |
+| Date     |  The day of the month ``eg 28th day`` |
 
 
 | Outputs |  Description |
 | :---         |          ---: |
-| Day of birth  | The day of the week that the user was born ``eg Tuesday`` |
-| Akan name    |  The corresponding Akan name for the user ``eg Kofi``    |
+| Day of birth  | The day of the week that the user was born ``eg Sunday`` |
+| Akan name    |  The corresponding Akan name for the user ``eg Kwasi``    |
 |     |      |
 
 
 ## Known Bugs
-
+None
 
 ## License
 > MIT License &copy 2019 Lilian
 
 ## Collaborate
-To collaborate, reach me on [Email] lilan.munyekenye@aiu.ac.ke
+To collaborate, reach me on [Email] lilian.munyekenye@aiu.ac.ke
