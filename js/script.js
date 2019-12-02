@@ -28,12 +28,12 @@ var maleNames=[
      "Ama",
  ];
  // calling functions
- fucnction getName (){
+ function getName (){
      var year=parseInt(document.getElementById("Year").value);
      var Month=parseInt(document.getElementById("Month").value);
      var Day =parseInt(document.getElementById("Day").value);
-     Var male= document.getElementById ("male");
-     Var female = document.getElementById ("female");
+     var male= document.getElementById ("male");
+     var female = document.getElementById ("female");
     }
 // validation
 if(day<=0 || day>31)
